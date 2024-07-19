@@ -1,0 +1,27 @@
+#page{
+    background-color: rgb(75, 71, 71);
+}
+.title{
+    background-color:rgb(223, 220, 220);
+    color: black;
+}
+#team{
+   text-align: center;
+}
+
+#part0{
+    text-align: left;
+}
+
+#part1{ 
+    text-align: center; 
+}
+
+#part2{ 
+    text-align: right;  
+}
+#footer{ 
+    text-align: center;
+     
+}
+
